@@ -36,5 +36,4 @@
 - Repository Service
 - Eloquent Relationship
 
-![](https://renandatta.com/assets/file/zJNmvsbp8yr6TpsQ_file.png)
 # Donasiku-by-UPZ-UINSA
